@@ -14,7 +14,7 @@ function Footer() {
                     <a href="https://www.facebook.com" target='_blank' className='cursor-pointer'><FaFacebook size={24}/></a>
                     <a href="https://www.linkedin.com/in/satyabrat-sahoo-developer/" target='_blank' className='cursor-pointer'><FaLinkedin size={24}/></a>
                     {/* <FaSquareXTwitter size={24}/> */}
-                    <a href="https://x.com/satya_sahoo_05" target='_blank' className='cursor-pointer'><FaTelegram size={24}/></a>
+                    <a href="https://x.com/satya_sahoo_05" target='_blank' className='cursor-pointer'><FaSquareXTwitter size={24}/></a>
                 </div>
                 <div className='mt-8 border-t border-gray-700 pt-8 flex flex-col items-center'>
                     <p className='text-sm'>&copy; 2024 Your Company, All right reserved.</p>
