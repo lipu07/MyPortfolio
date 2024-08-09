@@ -14,7 +14,7 @@ function Home() {
   return(
     <>
     <div name="Home" className='max-w-screen-2xl container mx-auto px-4 h-16 md:px-20 my-20'>
-        <div className='flex flex-col md:flex-row'>
+        <div className=' text-white bg-gray-800 flex flex-col md:flex-row'>
         <div className='md:w-1/2 mt-10 md:mt-12 space-y-2 order-2 md:order-1'>
             <span className='text-xl'>Welcome to my Feed</span>
             <div className='flex space-x-1 text-2xl md:text-4xl'>
@@ -58,7 +58,7 @@ function Home() {
             </div>
         </div>
         <div className='md:w-1/2 mt-8 md:ml-40 md:mt-16 order-1'>
-            <img src={pic} className='rounded-2xl h-500px' alt="" />
+            <img src={pic} className='border-2 hover:scale-105 duration-300 rounded-2xl h-500px' alt="" />
         </div>
         </div>
     </div>

@@ -40,7 +40,7 @@ function Experience() {
         },
     ]
   return (
-    <div name="Experience" className='max-w-screen-2xl container mx-auto px-4 h-16 md:px-20 my-20 mt-[390px]'><br />
+    <div name="Experience" className='text-white max-w-screen-2xl container mx-auto px-4 h-16 md:px-20 my-20 mt-[390px]'><br />
         <div>
             <h1 className='text-3xl font-bold mt-8'>Experience</h1><br />
             {/* <span className='underline font-semibold'>Featured Project</span> */}

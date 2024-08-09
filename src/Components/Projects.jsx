@@ -10,7 +10,7 @@ function Projects() {
         }
     ]
   return (
-    <div name="Projects" className='max-w-screen-2xl container mx-auto px-4 h-16 md:px-20 my-20 mt-[400px] md:mt-[300px]'><br /><hr />
+    <div name="Projects" className='text-white max-w-screen-2xl container mx-auto px-4 h-16 md:px-20 my-20 mt-[400px] md:mt-[300px]'><br /><hr />
         <div>
             <h1 className='text-3xl font-bold mt-8'>Projects</h1><br />
             <span className='underline font-semibold'>Featured Project</span>
@@ -21,7 +21,7 @@ function Projects() {
                             <img src={logo} className='w-[120px] h-[120px] p-1 rounded-full border-[2px]' alt="" />
                             <div>
                                 <div className='px-2 font-bold text-lg mb-2'>{name}</div>
-                                <p className='px-2 text-gray-700'>its my project</p>
+                                <p className='px-2 text-white-700'>its my project</p>
                             </div>
                             <div className='px-6 py-4 space-x-3 justify-around'>
                                 <button className='bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded'>Video</button>
