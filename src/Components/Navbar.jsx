@@ -15,10 +15,10 @@ function Navbar() {
       id: 1,
       text: "About",
     },
-    {
-      id: 1,
-      text: "Projects",
-    },
+    // {
+    //   id: 1,
+    //   text: "Projects",
+    // },
     {
       id: 1,
       text: "Experience",
