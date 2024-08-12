@@ -34,7 +34,7 @@ function Home() {
               that showcase my proficiency in the Web technology.
               <br/><br/>🌟 Passionate about pushing the boundaries to deliver high-quality results. I'm constantly exploring new technologies and best practices
               to stay ahead of the curve.I'm always excited to collaborate on new projects and contribute my expertise to meaningful ventures.
-              If you're looking for a skilled Web developer who is committed to excellence, I'd love to hear from you!
+              If you're looking for a skilled Web developer who is committed to excellence.
             </p><br/>
             {/*social media */}
             <div className='flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0'>
