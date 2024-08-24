@@ -1,5 +1,6 @@
 import React from 'react'
 import pic from '../../public/profile.png'
+import resume from '../../public/Resume.jpg'
 import { FaFacebook } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
