@@ -3,6 +3,8 @@ import axios from 'axios'
 import { useForm } from "react-hook-form"
 import toast from 'react-hot-toast'
 
+let c=12;
+
 function Contact() {
     const {
     register,
